@@ -1,2 +1,2 @@
 # Applied-machine-learning-Lab
-Applied Machine Learning Lab Assignments
+As part of MSIS [Masters in Artificial Intelligence], I have done and uploaded all the assignments here up-to-date
